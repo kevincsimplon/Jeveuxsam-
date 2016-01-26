@@ -1,0 +1,15 @@
+.appli{
+width:250px;
+ height:70px;
+ background-image: url('../img/nice_snow.png');
+ border: 2px  solid;
+border-radius: 5px;
+margin: auto;
+margin-top: 20%;}
+p{
+text-align: center;
+  font-family: Impact;
+}
+body{
+background-image: url('../img/mochaGrunge_@2X.png');
+}
